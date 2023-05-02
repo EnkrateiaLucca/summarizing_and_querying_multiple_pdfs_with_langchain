@@ -1,0 +1,15 @@
+ This paper proposes a method to learn robust global representations by 
+ penalizing local predictive power. Wang et al. proposed a method to learn 
+ robust global representations by penalizing local predictive power. 
+ The proposed method achieved state-of-the-art results on the Sun Database, 
+ Florence, and Contrastive Learning of Medical Visual Representations from 
+ Paired Images and Text datasets.The proposed method is a promising approach 
+ for learning robust global representations and can be applied to a variety of computer vision tasks.
+
+
+ This paper introduces Big Bird, a novel Transformer architecture that is designed to capture long-range dependencies in longer sequences. The approach is based on the Transformer architecture and uses a multi-scale self-attention mechanism. Experiments on a variety of tasks show that Big Bird outperforms existing Transformer models on long sequences. The paper discusses the potential of Big Bird to improve the performance of Transformer models on long sequences and its potential applications in natural language processing.
+
+
+ This paper presents a problem in the Tyreworld domain, where the goal is to replace flat tyres with intact tyres on the hubs, inflate the intact tyres, and keep the nuts tight on the hubs, while keeping the jack, pump, wrench, and intact tyres in the boot and the boot closed. The approach used is GPT-3.5, which involves defining a domain and objects, and setting a goal. The main result is that GPT-3.5 is able to solve the problem. The main discussion points are the potential of GPT-3.5 for solving complex problems, and the need for further research to improve its performance.
+
+

@@ -1,0 +1,35 @@
+
+
+This paper presents CoOp, a few-shot learning method that uses learnable context 
+vectors to optimize pre-trained vision-language models for downstream image 
+recognition tasks. Experiments on 11 datasets show that CoOp outperforms 
+hand-crafted prompts and the linear probe model, and is robust to domain shifts. 
+The paper also discusses various research papers related to computer vision, 
+including topics such as natural adversarial examples, scaling up visual and 
+vision-language representation learning, visual prompt tuning, predicting deep 
+zero-shot convolutional neural networks, parameter-efficient prompt tuning, 
+learning visual n-grams from web data, optimizing continuous prompts for 
+generation, pre-training with noisy text supervision, measuring robustness to 
+natural distribution shifts, and learning robust global representations.
+
+
+ This paper presents the Recurrent Memory Transformer (RMT) model, which is 
+ designed to process sequences longer than 1 million tokens with a single GPU. 
+ Experiments demonstrate the effectiveness of the approach, which holds 
+ potential to enhance long-term dependency handling in natural language 
+ understanding and generation tasks. The paper also reviews a variety of works 
+ related to neural networks and natural language processing, such as Big Bird 
+ and Opt, two Transformer-based models for longer sequences.
+
+
+ This paper introduces LLM+P, a framework that combines the strengths of large 
+ language models (LLMs) and classical planners to solve long-horizon planning 
+ problems. Experiments show that LLM+P is able to provide optimal solutions 
+ while LLMs fail to provide even feasible plans. It uses a PDDL representation 
+ to convert a natural language prompt into a plan, which is then translated 
+ back to natural language using the LLM. Results show that LLM+P is successful 
+ in all domains, while LLM-AS-P fails in most domains. Future work includes 
+ enabling the LLM to auto-detect when and how to apply LLM+P and reducing 
+ LLM+P’s dependency on information by humans.
+
+
