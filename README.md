@@ -4,7 +4,7 @@ Notebook for my Youtube video and Medium article on summarizing and querying mul
 
 # Instalation and Setup
 
-Create a conda environment and install the following packages:
+Create a conda environment and install the necessary packages:
 
 ```
 conda create --name langchain_env python=3.8
