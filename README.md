@@ -1,6 +1,6 @@
 # Summarizing and Querying Multiple Papers with LangChain
 
-Notebook for my Youtube video and Medium article on summarizing and querying multiple pdfs.
+Notebook for my [Youtube video](https://www.youtube.com/watch?v=p_MQRWH5Y6k) on summarizing and querying multiple pdfs.
 
 # Instalation and Setup
 
