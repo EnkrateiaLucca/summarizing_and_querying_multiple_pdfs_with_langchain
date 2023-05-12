@@ -13,9 +13,7 @@ conda activate langchain_env
 
 
 ```
-pip install openai
-pip install chromadb
-pip install langchain
+pip install -r requirements.txt
 ```
 
 # Usage
